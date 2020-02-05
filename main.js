@@ -15,14 +15,6 @@ aCopy.querySelector('h2').textContent = "Jonas the pig";
 aCopy.querySelector('.kindOfPig').textContent = "PIGhotpink ";
 aCopy.querySelector('p:nth-child(4)').textContent = "2hotpink2 ";
 
-
-
-
-
-
-
-
-
 const whosYourDaddy = document.querySelector('main');
 
 whosYourDaddy.appendChild(aCopy);
